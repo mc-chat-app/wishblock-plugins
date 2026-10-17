@@ -1,0 +1,8 @@
+name: GuessTheWordGame
+version: "1"
+main: net.wishblock.guessthewordgame.Main
+api-version: "26.2"
+commands:
+  wordle:
+    description: Play Wordle! Guess the secret 5-letter word.
+    usage: /wordle [guess]

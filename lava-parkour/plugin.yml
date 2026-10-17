@@ -1,0 +1,8 @@
+name: MakeALavaParkourWhere
+version: "1"
+main: net.wishblock.makealavaparkourwhere.Main
+api-version: "26.2"
+commands:
+  lavaparkour:
+    description: Build a lava parkour in front of you
+    usage: /lavaparkour

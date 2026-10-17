@@ -1,0 +1,18 @@
+name: DriveRacecarsOnATrack
+version: "1"
+main: net.wishblock.driveracecarsonatrack.Main
+api-version: "26.2"
+commands:
+  racecar:
+    description: Get a racecar to drive
+    usage: /racecar [red|blue|green|yellow]
+    permission: driveracecarsonatrack.racecar
+  racetrack:
+    description: Build a racetrack around you
+    usage: /racetrack
+    permission: driveracecarsonatrack.racetrack
+permissions:
+  driveracecarsonatrack.racecar:
+    default: true
+  driveracecarsonatrack.racetrack:
+    default: op

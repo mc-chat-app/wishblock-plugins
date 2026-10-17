@@ -1,0 +1,1593 @@
+{
+ "textures": {
+  "car": "driveracecarsonatrack:item/racecar_red",
+  "particle": "driveracecarsonatrack:item/racecar_red"
+ },
+ "elements": [
+  {
+   "from": [
+    2,
+    2,
+    -10
+   ],
+   "to": [
+    14,
+    5,
+    28
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    5,
+    2,
+    -16
+   ],
+   "to": [
+    11,
+    5,
+    -10
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    7,
+    5,
+    -15
+   ],
+   "to": [
+    9,
+    5.3,
+    2
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    -3,
+    1,
+    -16
+   ],
+   "to": [
+    19,
+    2.5,
+    -12
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      8,
+      12,
+      16,
+      16
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    -3,
+    1,
+    -16
+   ],
+   "to": [
+    -2,
+    4,
+    -12
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    18,
+    1,
+    -16
+   ],
+   "to": [
+    19,
+    4,
+    -12
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    3,
+    5,
+    -4
+   ],
+   "to": [
+    13,
+    7.5,
+    4
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    4,
+    7.5,
+    -1
+   ],
+   "to": [
+    12,
+    9.5,
+    0
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      4,
+      4,
+      8,
+      8
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      4,
+      4,
+      8,
+      8
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      4,
+      4,
+      8,
+      8
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      4,
+      4,
+      8,
+      8
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      4,
+      4,
+      8,
+      8
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      4,
+      4,
+      8,
+      8
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    6,
+    7.5,
+    0.5
+   ],
+   "to": [
+    10,
+    7.7,
+    3
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      12,
+      4,
+      16,
+      8
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      4,
+      4,
+      8
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    4,
+    5,
+    12
+   ],
+   "to": [
+    12,
+    9,
+    28
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    7,
+    9,
+    14
+   ],
+   "to": [
+    9,
+    11,
+    26
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    -1,
+    2,
+    4
+   ],
+   "to": [
+    2,
+    6,
+    16
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    14,
+    2,
+    4
+   ],
+   "to": [
+    17,
+    6,
+    16
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    4,
+    5,
+    29
+   ],
+   "to": [
+    5,
+    10,
+    31
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    11,
+    5,
+    29
+   ],
+   "to": [
+    12,
+    10,
+    31
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    -2,
+    10,
+    27
+   ],
+   "to": [
+    18,
+    12,
+    32
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      4,
+      0,
+      8,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    -2,
+    6,
+    27
+   ],
+   "to": [
+    -1,
+    12,
+    32
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    17,
+    6,
+    27
+   ],
+   "to": [
+    18,
+    12,
+    32
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      0,
+      4,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    -4,
+    0,
+    18
+   ],
+   "to": [
+    0,
+    9,
+    28
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      8,
+      8,
+      16
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    -4,
+    0,
+    -10
+   ],
+   "to": [
+    0,
+    8,
+    -2
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      0,
+      8,
+      8,
+      16
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    16,
+    0,
+    18
+   ],
+   "to": [
+    20,
+    9,
+    28
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      8,
+      8,
+      16
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  },
+  {
+   "from": [
+    16,
+    0,
+    -10
+   ],
+   "to": [
+    20,
+    8,
+    -2
+   ],
+   "faces": {
+    "up": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "down": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "north": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "south": {
+     "uv": [
+      8,
+      8,
+      16,
+      12
+     ],
+     "texture": "#car"
+    },
+    "east": {
+     "uv": [
+      0,
+      8,
+      8,
+      16
+     ],
+     "texture": "#car"
+    },
+    "west": {
+     "uv": [
+      8,
+      0,
+      12,
+      4
+     ],
+     "texture": "#car"
+    }
+   }
+  }
+ ],
+ "display": {
+  "gui": {
+   "rotation": [
+    30,
+    225,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    0.4,
+    0.4,
+    0.4
+   ]
+  },
+  "ground": {
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.3,
+    0.3,
+    0.3
+   ]
+  },
+  "fixed": {
+   "scale": [
+    0.45,
+    0.45,
+    0.45
+   ]
+  },
+  "thirdperson_righthand": {
+   "rotation": [
+    75,
+    45,
+    0
+   ],
+   "translation": [
+    0,
+    2.5,
+    0
+   ],
+   "scale": [
+    0.3,
+    0.3,
+    0.3
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    45,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.3,
+    0.3,
+    0.3
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    225,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.3,
+    0.3,
+    0.3
+   ]
+  }
+ }
+}
