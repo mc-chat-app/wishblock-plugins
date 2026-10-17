@@ -1,0 +1,9 @@
+name: OpenYourEnderChestAnywhere
+version: "1"
+main: net.wishblock.openyourenderchestanywhere.Main
+api-version: "26.2"
+commands:
+  echest:
+    description: Open your ender chest anywhere
+    usage: /echest
+    aliases: [enderchest, ec]

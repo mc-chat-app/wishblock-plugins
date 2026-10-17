@@ -9,6 +9,9 @@ all in a few minutes. Nobody wrote or edited the code by hand. It is published a
 | [Racecars](racecars/) | *Add racecars I can drive and a racetrack* | `/racetrack` builds an oval track with a timed start line; `/racecar` gives you a 3D car you drive with WASD |
 | [Wordle](wordle/) | *Make a wordle gui* | `/wordle` opens a clickable Wordle board with green/yellow/gray tiles and a letters book |
 | [Lava Parkour](lava-parkour/) | *Make a lava parkour where the platforms melt after you jump* | `/lavaparkour` builds a lava course whose platforms melt behind you |
+| [/echest](echest/) | *Make an /echest command that opens your ender chest anywhere* | `/echest` (`/ec`) opens your ender chest wherever you are |
+| [/invsee](invsee/) | *Make a /invsee command to look at another player's inventory* | `/invsee <player>` shows and edits a player's inventory, ops only |
+| [/sethome and /home](sethome-home/) | *Add /sethome and /home commands* | Save a home and teleport back to it |
 
 <p>
 <img src="racecars/demo.gif" width="300" alt="Driving a racecar around a racetrack in Minecraft">
@@ -25,7 +28,7 @@ Each plugin's page has a **Make this** link that starts Wishblock with that sent
 
 ## Using these on your own server
 
-- **Lava Parkour** runs on any Paper 26.2 server: download the jar from [Releases](../../releases) and put it in `plugins/`.
+- **Lava Parkour, /echest, /invsee and /sethome + /home** run on any Paper 26.2 server: download the jar from [Releases](../../releases) and put it in `plugins/`.
 - **Racecars** and **Wordle** come with their own textures. On Wishblock those reach players automatically; on another server
   the plugin would ask players for a resource pack it can't serve, so there's no jar for them yet. The source is here to read and build on.
 

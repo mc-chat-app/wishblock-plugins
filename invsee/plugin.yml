@@ -1,0 +1,13 @@
+name: LookAtOtherPlayerSInventory
+version: "1"
+main: net.wishblock.lookatotherplayersinventory.Main
+api-version: "26.2"
+commands:
+  invsee:
+    description: Look inside another player's inventory
+    usage: /invsee <player>
+    permission: invsee.use
+permissions:
+  invsee.use:
+    description: Use /invsee
+    default: op

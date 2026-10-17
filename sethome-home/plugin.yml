@@ -1,0 +1,11 @@
+name: AddSethomeAndHomeCommands
+version: "1"
+main: net.wishblock.addsethomeandhomecommands.Main
+api-version: "26.2"
+commands:
+  sethome:
+    description: Save where you stand as your home
+    usage: /sethome
+  home:
+    description: Go back to your home
+    usage: /home
